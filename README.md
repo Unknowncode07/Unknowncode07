@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Unknowncode07
-- 👀 I’m interested in  Competetive Programming and Full Web Development
+- 👀 I’m interested in  Competetive Programming and FullStack Web Development
 - 🌱 I’m also interested in  Machine Learning Projects
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
