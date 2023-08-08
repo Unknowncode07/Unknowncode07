@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Unknowncode07
-- 👀 I’m interested in  Competetive Programming and Frontend Web Development
-- 🌱 I’m currently learning Machine Learning basics
+- 👀 I’m interested in  Competetive Programming and Full Web Development
+- 🌱 I’m also interested in  Machine Learning Projects
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
